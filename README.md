@@ -1,4 +1,4 @@
-# first-prr02-su17a
+# Först programmerings lektionen
 # test
 *test*
 **test**
